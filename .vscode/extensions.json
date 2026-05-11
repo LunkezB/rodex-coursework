@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff",
+    "ms-azuretools.vscode-docker",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "GitHub.vscode-github-actions",
+    "eamodio.gitlens",
+    "jebbs.plantuml",
+    "myriad-dreamin.tinymist"
+  ]
+}

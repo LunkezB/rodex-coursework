@@ -1,0 +1,6 @@
+backend/
+alembic/
+node_modules/
+dist/
+coverage/
+.pytest_cache/
